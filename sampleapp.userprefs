@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{8DC0992C-86F2-4797-ACE6-1BDC1053EC81}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sampleapp/sampleappPage.xaml.cs">
+    <Files>
+      <File FileName="sampleapp/sampleappPage.xaml.cs" Line="10" Column="1" />
+      <File FileName="sampleapp/sampleappPage.xaml" Line="4" Column="62" />
+      <File FileName="sampleapp/App.xaml.cs" Line="12" Column="1" />
+      <File FileName="iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="sampleapp/obj/Debug/sampleapp.sampleappPage.xaml.g.cs" Line="30" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vishnupriya/Projects/sampleapp/sampleapp/sampleappPage.xaml.cs" line="9" column="14" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sampleapp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4B3D3509-FDF4-4F0C-AC49-C4E9B7DDA58B" />
+  <MonoDevelop.Ide.ItemProperties.sampleapp.Droid PreferredExecutionTarget="Android.Nexus5_6.0" />
+</Properties>
